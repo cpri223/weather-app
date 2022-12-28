@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(80deg, palegoldenrod, cornflowerblue);
+}
+
+.container {
+    margin: 0 auto;
+    width: 70%;
+    max-width: 1000px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', sans-serif;
+}
